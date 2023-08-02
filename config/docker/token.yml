@@ -1,0 +1,8 @@
+fa1:
+  address: "192.168.0.37"
+  api_token: "fe86c562-ca01-f289-0d31-73459c993b77"
+
+
+fa2:
+  address: "192.168.0.137"
+  api_token: "c2ad97fc-6b9f-5256-dc88-27d3d8e00e4d"
